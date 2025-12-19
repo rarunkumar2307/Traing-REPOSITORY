@@ -1,0 +1,6 @@
+p::first-letter {
+  -webkit-initial-letter: 3;
+  initial-letter: 3;
+  color: #4CAF50;
+  font-weight: bold;
+}
